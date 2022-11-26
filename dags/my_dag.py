@@ -154,6 +154,3 @@ def my_dag():
 
 	
 dag = my_dag()
-
-# free exam retry code
-# free-retry-exam-airflow-dag-authoring
